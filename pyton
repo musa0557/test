@@ -1,0 +1,6 @@
+a=input("IP unvanizi daxil edin:")
+b=input("IP unvanizi ugun gelmir")
+if a!=b:
+print("IP yanlis dir")
+elif a==b
+print("IP dogrudur")
